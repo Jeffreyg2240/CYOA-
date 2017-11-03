@@ -1,1 +1,4 @@
-You open the door to the far right and suddenly *blood* flushes out the door and pressure breaks your bones as you go into shock and die
+You open the door to the far right and suddenly *blood* flushes out the door and pressure  
+### *breaks your bones as you go into shock and die*.
+
+## [Re:Zero](../README.md)?
