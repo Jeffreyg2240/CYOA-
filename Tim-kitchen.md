@@ -1,2 +1,4 @@
-You open the right door and appear to have entered a kitchen, the kitchen had the name _**TIM**_ burnt into the wall, so you can assume it's owned by a Tim. You can hear the small sounds of what could possibly be words and you can see the backyard being lit by the moon light, one door is going to lead outside and the other leads into the unknown. One door is south west of you and the room is sligthly twisted by the floorways and the other is the backyard of the mansion.
+You open the right door and appear to have entered a kitchen, the kitchen had the name _**TIM**_ burnt into the wall, and you hear this echo of a a word that sounds like Tim. You can see the sunlight from the outside locked window, you can see that you are close to the backyard, but right now infront of you there are 2 more doors.
 
+[1st Door](situations/death-by-hecper.md)
+[2nd Door]()

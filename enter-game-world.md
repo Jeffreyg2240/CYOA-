@@ -1,1 +1,6 @@
-You run for the backyard door of Tim's kitchen, being consumed by the bright light. You passed out for a couple of minutes and awaken in a new world, a world of games. Everything is determined by games and the mere luck of you winning the games. After several days of winning, you have a choice of staying and being the ruler of the world or continue through a mystery white door with a crown on the top of it. 
+As you through the door, you see the sunlight and assume that you're back home, but you ended up in another world where “everything in this world is determined by games.”
+
+Upon arriving you are given a choose to leave or stay.
+
+[Stay!](situations/game-world.md)  
+[Get me out!](../4-pills.md)
