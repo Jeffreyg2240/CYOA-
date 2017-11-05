@@ -1,0 +1,1 @@
+You open the twisted door and upon entering it,*SLAM!*, the door broke and vanished into the nothingness. This causes two humans to appear, the first one begins to show you some memes and the other dabs at you. This goes on till you starve to death, guess not all memes are life saving?
