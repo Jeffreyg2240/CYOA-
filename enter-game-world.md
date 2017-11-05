@@ -3,4 +3,4 @@ As you through the door, you see the sunlight and assume that you're back home, 
 Upon arriving you are given a choose to leave or stay.
 
 [Stay!](situations/game-world.md)  
-[Get me out!](4-pills.md)
+[Get me out!](3-pills.md)
