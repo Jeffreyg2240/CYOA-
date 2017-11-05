@@ -3,10 +3,11 @@ As you enter the room, you find yourself in a room with another 3 doors, and now
 <html>
 <body>
 <script>
-var rand =random(1,4);
+rand = Math.floor(Math.random() * 10)
 var door1, door2, door3;
 if(rand==1){
-    fdoor= 
+    door1=(rand)
+    rand
 }
 
 </script>

@@ -1,3 +1,4 @@
-You open the twisted door and upon entering it,*SLAM!*, the door broke and vanished into the nothingness. This causes two humans to appear, the first one begins to show you some memes and the other dabs at you. This goes on till you starve to death, guess not all memes are life saving?
+You choosed to open the door furthest from the window, and upon opening the door you've realize you've just made the worst decision of your life, as Hector's _**memes**_ and Kasper's _**dabs**_ you to a **painfully slow** death.
+
 
 ## [Re:Zero](../README.md)?
