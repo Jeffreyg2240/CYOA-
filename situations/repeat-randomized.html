@@ -1,0 +1,52 @@
+
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.3/p5.js"></script>
+    <script>
+    var rand = random(1,6);
+    var door1, door2, door3; 
+    function setup(){
+        createCanvas(500,500)
+        if(rand==1){
+            door1="repeat-randomized.html"
+            door2="death-by-tim.md"
+            door3="2-door.md"
+        }else if(rand==2){
+            door1="repeat-randomized.html"
+            door2="2-door.md"
+            door3="death-by-tim.md"
+        }else if(rand==3){
+            door1="death-by-tim.md"
+            door2="repeat-randomized.html"
+            door3="2-door.md"
+        }else if(rand==4){
+            door1="2-door.md"
+            door2="death-by-tim.md"
+            door3="repeat-randomized.html"
+        }else if(rand==5){
+            door1="death-by-tim.md"
+            door2="2-door.md"
+            door3="repeat-randomized.html"
+        }else if(rand==6){
+            door1="2-door.md"
+            door2="repeat-randomized.html"
+            door3="death-by-tim.md"
+        }
+        textSize(17)
+        text("As you enter the room, you find yourself in a room with another 3", 0,20)
+        text("doors, and now you must choose which one to enter.",0, 40)
+        text(("Door #1")  , 20, 70);
+        text("Door #2", 20, 90);
+        text("Door #3", 20, 110);
+    }
+    function draw(){ 
+        if((mouseX<=20)&&(mouseY<=70)&&(mouseY>=85)){
+            
+        }else if((mouseX<=20)&&(mouseY<=70)&&(mouseY>=85)){
+            
+    }
+    </script>
+</head>
+<body>
+</body>
+</html>

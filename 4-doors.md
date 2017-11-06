@@ -1,4 +1,4 @@
-You open the door on the left, wind blowing passed you and reveals four more doors. Each door was wooden and appeared old in design, you're growing more scared with each passing second. Your move!
+You walk into a room with another 4 doors, “Your move”. 
 
 [Door 1](situtations/death-by-tim.md)  
 [Door 2](geometry.md)  
