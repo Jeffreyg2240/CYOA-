@@ -40,9 +40,14 @@
         text("Door #3", 20, 110);
     }
     function draw(){ 
-        if((mouseX<=20)&&(mouseY<=70)&&(mouseY>=85)){
+        if((mouseX<=20)&&(mouseY>=70)&&(mouseY<=90)){
+            window.open(door1)
+        }else if((mouseX<=20)&&(mouseY>=91)&&(mouseY<=110)){
+            window.open(door2)
+        }else if((mouseX<=20)&&(mouseY>=111)&&(mouseY<=130)){
+            window.open(door3)
+        }
             
-        }else if((mouseX<=20)&&(mouseY<=70)&&(mouseY>=85)){
             
     }
     </script>
