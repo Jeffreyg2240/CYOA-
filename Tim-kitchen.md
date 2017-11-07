@@ -2,3 +2,6 @@ You open the right door and appear to have entered a kitchen, the kitchen had th
 
 [1st Door](situations/death-by-hecper.md)  
 [2nd Door](enter-game-world.md)
+
+    
+Image from https://i.pinimg.com/originals/6c/75/39/6c7539a5fd430e25b811881020adb75b.jpg

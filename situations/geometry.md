@@ -1,3 +1,5 @@
-You are back in freshman year somehow and dream of your _**geometry**_ class, doing “do-now” and finding the final digit to “π”, the time froze, and did a “Steins;Gate”, so you are stuck there for the eternity. Somehow with Xavier in the class also. - BAD END
+You are back in freshman year somehow and dream of your _**geometry**_ class, doing “do-now” and finding the final digit to “π”, the time froze, so you are stuck there for the eternity. Somehow with Xavier in the class also. - BAD END
 
-## [Re:Zero](../README.md)?
+![](https://www.flickr.com/photos/isaacbowen/2655676073/in/photolist-53F2Yv-e6Cw1P-dzWhEF-51FHf3-2zJLxq-5KRnrx-6nHc74-hPKtwF-edNTjA-754o1d-qpsSNV-9ezewb-6LJR4e-4tetC5-9ew87p-b4yzRz-acCA6j-9hxwV3-5yBFYF-7GZEoi-f7cCiC-qpfA6w-9LzCmw-auLQLX-4YDuAH-pipvNk-72Qq3g-akL45u-oYPGyP-am9ece-72Utf9-4taqqX-oFt77W-7G1gnp-93LNbP-4RUvMe-5eMumr-mbtJnM-bFjDYV-nncUzD-fDfXWL-5AEwZh-gYhEA3-jjSpBF-dGQv3C-qLu84o-7FMkAL-xgdULV-er5sF2-pZWphJ)  
+Image from https://www.flickr.com/photos/isaacbowen/2655676073/in/photolist-53F2Yv-e6Cw1P-dzWhEF-51FHf3-2zJLxq-5KRnrx-6nHc74-hPKtwF-edNTjA-754o1d-qpsSNV-9ezewb-6LJR4e-4tetC5-9ew87p-b4yzRz-acCA6j-9hxwV3-5yBFYF-7GZEoi-f7cCiC-qpfA6w-9LzCmw-auLQLX-4YDuAH-pipvNk-72Qq3g-akL45u-oYPGyP-am9ece-72Utf9-4taqqX-oFt77W-7G1gnp-93LNbP-4RUvMe-5eMumr-mbtJnM-bFjDYV-nncUzD-fDfXWL-5AEwZh-gYhEA3-jjSpBF-dGQv3C-qLu84o-7FMkAL-xgdULV-er5sF2-pZWphJ
+## [Steins;Gate](../README.md)?
