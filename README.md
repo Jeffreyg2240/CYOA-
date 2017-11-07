@@ -4,4 +4,5 @@ You are in a haunted mansion after Xavier dared you to go into a Haunted Mansion
 [2nd Door](situations/death-by-tim.md)  
 [3rd Door](2-door.md)
 
-![huanted](https://www.flickr.com/photos/fiorescuro/5620311588/)
+![huanted](huanted.jpg)  
+Image from https://www.flickr.com/photos/fiorescuro/5620311588/
