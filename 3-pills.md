@@ -3,5 +3,5 @@ Upon leaving the world of games, you appear in a room with a demon goat statue w
 [Purple Pill](situations/purple-pill.md)  
 [Green Pill](green-pill.md)  
 [Blue Pill](situations/blue-pill.md)  
-![](https://cdn.drawception.com/images/panels/2012/9-22/Ykem99E9N5-4.png)
-Image from 
+![](https://cdn.drawception.com/images/panels/2012/9-22/Ykem99E9N5-4.png)  
+Image from https://cdn.drawception.com/images/panels/2012/9-22/Ykem99E9N5-4.png     
