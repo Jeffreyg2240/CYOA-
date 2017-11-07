@@ -3,3 +3,4 @@ You are in a haunted mansion after Xavier dared you to go into a Haunted Mansion
 [1st Door](situations/repeat-randomized.md)  
 [2nd Door](situations/death-by-tim.md)  
 [3rd Door](2-door.md)
+![](5620311588_5550676cda_z)
